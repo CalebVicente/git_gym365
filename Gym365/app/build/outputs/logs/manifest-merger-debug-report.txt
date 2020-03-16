@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:2:1-87:12
-INJECTED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:2:1-87:12
-INJECTED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:2:1-87:12
-INJECTED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:2:1-87:12
+ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:2:1-87:12
 MERGED from [androidx.navigation:navigation-ui:2.0.0] C:\Users\cvicentm\.gradle\caches\transforms-2\files-2.1\2813fe97c1cb58ebe38af53c1f99e5e0\jetified-navigation-ui-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\cvicentm\.gradle\caches\transforms-2\files-2.1\2946ca0ea6c89dab7d7d9fbc18e54292\material-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\cvicentm\.gradle\caches\transforms-2\files-2.1\906744c4ddcbc384c5a8d2d69414f8fa\appcompat-1.0.2\AndroidManifest.xml:17:1-22:12
@@ -44,25 +44,25 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\cvicentm\.gradle
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\cvicentm\.gradle\caches\transforms-2\files-2.1\8cf450d11667f9427b289f08c2115f5c\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] C:\Users\cvicentm\.gradle\caches\transforms-2\files-2.1\d31a9dbc3f8404c541e987748c42963b\print-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\cvicentm\.gradle\caches\transforms-2\files-2.1\699bc310780b1730bce8fe271ffeca8b\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:2:1-87:12
-INJECTED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:2:1-87:12
-INJECTED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:2:1-87:12
+INJECTED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:2:1-87:12
 	package
-		ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:3:5-33
-		INJECTED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:2:1-87:12
-		INJECTED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:2:1-87:12
+		INJECTED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:2:1-87:12
-		INJECTED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:2:1-87:12
+		INJECTED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:5:5-85:19
+ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:5:5-85:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\cvicentm\.gradle\caches\transforms-2\files-2.1\2946ca0ea6c89dab7d7d9fbc18e54292\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\cvicentm\.gradle\caches\transforms-2\files-2.1\2946ca0ea6c89dab7d7d9fbc18e54292\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\cvicentm\.gradle\caches\transforms-2\files-2.1\508ac768b50158a079142e4dc4915061\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
@@ -78,71 +78,71 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\cvicentm\.grad
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.1] C:\Users\cvicentm\.gradle\caches\transforms-2\files-2.1\c0a39027978b83a483a047f5c31d0c4e\core-1.0.1\AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.example.gym365.MainActivity
-ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
-		ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:12:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:13:13-17:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:14:17-69
 	android:name
-		ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:14:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
-		ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:16:27-74
 activity#com.example.gym365.Activity_calendar
-ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:20:9-26:20
+ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:20:9-26:20
 	android:name
-		ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:20:19-52
+		ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:20:19-52
 activity#com.example.gym365.Activity_tables
-ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:27:9-33:20
+ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:27:9-33:20
 	android:name
-		ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:27:19-50
+		ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:27:19-50
 activity#com.example.gym365.Activity_exercises
-ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:34:9-40:20
+ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:34:9-40:20
 	android:name
-		ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:34:19-53
+		ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:34:19-53
 activity#com.example.gym365.Activity_routes
-ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:41:9-47:20
+ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:41:9-47:20
 	android:name
-		ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:41:19-50
+		ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:41:19-50
 activity#com.example.gym365.Activity_pecho
-ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:49:9-55:20
+ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:49:9-55:20
 	android:name
-		ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:49:19-49
+		ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:49:19-49
 activity#com.example.gym365.Activity_piernas
-ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:56:9-62:20
+ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:56:9-62:20
 	android:name
-		ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:56:19-51
+		ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:56:19-51
 activity#com.example.gym365.Activity_brazos
-ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:63:9-69:20
+ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:63:9-69:20
 	android:name
-		ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:63:19-50
+		ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:63:19-50
 activity#com.example.gym365.Activity_espalda
-ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:70:9-76:20
+ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:70:9-76:20
 	android:name
-		ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:70:19-51
+		ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:70:19-51
 activity#com.example.gym365.Activity_cardio
-ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:77:9-83:20
+ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:77:9-83:20
 	android:name
-		ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml:77:19-50
+		ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml:77:19-50
 uses-sdk
-INJECTED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml
 MERGED from [androidx.navigation:navigation-ui:2.0.0] C:\Users\cvicentm\.gradle\caches\transforms-2\files-2.1\2813fe97c1cb58ebe38af53c1f99e5e0\jetified-navigation-ui-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-ui:2.0.0] C:\Users\cvicentm\.gradle\caches\transforms-2\files-2.1\2813fe97c1cb58ebe38af53c1f99e5e0\jetified-navigation-ui-2.0.0\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\cvicentm\.gradle\caches\transforms-2\files-2.1\2946ca0ea6c89dab7d7d9fbc18e54292\material-1.0.0\AndroidManifest.xml:20:5-44
@@ -223,16 +223,16 @@ MERGED from [androidx.print:print:1.0.0] C:\Users\cvicentm\.gradle\caches\transf
 MERGED from [androidx.print:print:1.0.0] C:\Users\cvicentm\.gradle\caches\transforms-2\files-2.1\d31a9dbc3f8404c541e987748c42963b\print-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\cvicentm\.gradle\caches\transforms-2\files-2.1\699bc310780b1730bce8fe271ffeca8b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\cvicentm\.gradle\caches\transforms-2\files-2.1\699bc310780b1730bce8fe271ffeca8b\interpolator-1.0.0\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\cvicentm\Documents\UNI\aps\Gym365\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cvicentm\Documents\UNI\aps\git_gym365\Gym365\app\src\main\AndroidManifest.xml
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\cvicentm\.gradle\caches\transforms-2\files-2.1\b3c088406576b03c69a90621925ddf75\lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
 	android:authorities
