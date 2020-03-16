@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Gym365</string>
+    <string name="text">Bienvenido</string>
+
+    <string name="button1">Tablas</string>
+    <string name="button2">Calendario</string>
+    <string name="button3">Ejercicios</string>
+    <string name="button4">Rutas</string>
+
+    <string name="pecho">Pecho</string>
+    <string name="brazos">Brazos</string>
+    <string name="piernas">Piernas</string>
+    <string name="cardio">Cardio</string>
+    <string name="espalda">Espalda</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="action_about">About</string>
+
+</resources>
