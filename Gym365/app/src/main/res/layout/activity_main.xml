@@ -64,11 +64,12 @@
 
     <LinearLayout
         android:layout_width="400dp"
-        android:layout_height="100dp"
-        android:layout_marginTop="2mm"
+        android:layout_height="156dp"
         android:layout_gravity="center_horizontal"
+        android:layout_marginTop="2mm"
         android:orientation="horizontal">
         ​
+
         <Button
             android:id="@+id/button3"
             android:layout_width="fill_parent"
@@ -76,20 +77,20 @@
             android:layout_weight="0.5"
             android:background="@drawable/borde_redondo"
             android:backgroundTint="@color/colorPrimary"
-            android:onClick="clickButton1"
             android:drawableBottom="@drawable/tablas_icono"
+            android:onClick="clickButton1"
             android:text="@string/button1" />
 
         <Button
             android:id="@+id/button4"
             android:layout_width="fill_parent"
             android:layout_height="fill_parent"
-            android:layout_weight="0.5"
             android:layout_marginLeft="10dp"
+            android:layout_weight="0.5"
             android:background="@drawable/borde_redondo"
             android:backgroundTint="@color/colorPrimary"
-            android:onClick="clickButton4"
             android:drawableBottom="@drawable/bici_icono"
+            android:onClick="clickButton4"
             android:text="@string/button4" />
 
     </LinearLayout>
