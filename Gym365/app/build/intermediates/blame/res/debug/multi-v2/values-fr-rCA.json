@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
+            "outputFile": "/var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml",
             "map": [
                 {
                     "source": "/var/home/lab/alum1/03/63/931/.gradle/caches/transforms-2/files-2.1/a9790b8ff4aaafaac9e5673f046038ca/jetified-navigation-ui-2.0.0/res/values-fr-rCA/values-fr-rCA.xml",

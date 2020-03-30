@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:2:1-128:12
-INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:2:1-128:12
-INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:2:1-128:12
-INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:2:1-128:12
+ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:2:1-128:12
+INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:2:1-128:12
+INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:2:1-128:12
+INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:2:1-128:12
 MERGED from [androidx.navigation:navigation-ui:2.0.0] /var/home/lab/alum1/03/63/931/.gradle/caches/transforms-2/files-2.1/a9790b8ff4aaafaac9e5673f046038ca/jetified-navigation-ui-2.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [com.google.android.material:material:1.0.0] /var/home/lab/alum1/03/63/931/.gradle/caches/transforms-2/files-2.1/2946ca0ea6c89dab7d7d9fbc18e54292/material-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.0.2] /var/home/lab/alum1/03/63/931/.gradle/caches/transforms-2/files-2.1/906744c4ddcbc384c5a8d2d69414f8fa/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
@@ -44,27 +44,27 @@ MERGED from [androidx.documentfile:documentfile:1.0.0] /var/home/lab/alum1/03/63
 MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /var/home/lab/alum1/03/63/931/.gradle/caches/transforms-2/files-2.1/8cf450d11667f9427b289f08c2115f5c/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.print:print:1.0.0] /var/home/lab/alum1/03/63/931/.gradle/caches/transforms-2/files-2.1/d31a9dbc3f8404c541e987748c42963b/print-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.interpolator:interpolator:1.0.0] /var/home/lab/alum1/03/63/931/.gradle/caches/transforms-2/files-2.1/699bc310780b1730bce8fe271ffeca8b/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:2:1-128:12
-INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:2:1-128:12
-INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:2:1-128:12
+INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:2:1-128:12
+INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:2:1-128:12
+INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:2:1-128:12
 	package
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:4:5-33
-		INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml
-		INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:4:5-33
+		INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml
+		INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:2:1-128:12
-		INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml
+		INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:2:1-128:12
+		INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:2:1-128:12
-		INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml
+		INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:2:1-128:12
+		INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:6:5-126:19
+ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:6:5-126:19
 MERGED from [com.google.android.material:material:1.0.0] /var/home/lab/alum1/03/63/931/.gradle/caches/transforms-2/files-2.1/2946ca0ea6c89dab7d7d9fbc18e54292/material-1.0.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] /var/home/lab/alum1/03/63/931/.gradle/caches/transforms-2/files-2.1/2946ca0ea6c89dab7d7d9fbc18e54292/material-1.0.0/AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /var/home/lab/alum1/03/63/931/.gradle/caches/transforms-2/files-2.1/508ac768b50158a079142e4dc4915061/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
@@ -80,89 +80,89 @@ MERGED from [androidx.lifecycle:lifecycle-process:2.0.0] /var/home/lab/alum1/03/
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.0.1] /var/home/lab/alum1/03/63/931/.gradle/caches/transforms-2/files-2.1/c0a39027978b83a483a047f5c31d0c4e/core-1.0.1/AndroidManifest.xml:22:18-86
 	android:supportsRtl
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:11:9-35
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:11:9-35
 	android:label
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:9:9-41
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:9:9-41
 	tools:ignore
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:13:9-48
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:13:9-48
 	android:roundIcon
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:10:9-54
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:10:9-54
 	android:icon
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:8:9-43
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:8:9-43
 	android:allowBackup
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:7:9-35
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:7:9-35
 	android:theme
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:12:9-40
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:12:9-40
 activity#com.example.gym365.MainActivity
-ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:14:9-20:20
+ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:14:9-20:20
 	android:name
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:14:19-47
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:14:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:15:13-19:29
+ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:15:13-19:29
 action#android.intent.action.MAIN
-ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:16:17-69
+ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:16:17-69
 	android:name
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:16:25-66
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:16:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:18:17-77
+ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:18:17-77
 	android:name
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:18:27-74
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:18:27-74
 activity#com.example.gym365.Activity_calendar
-ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:22:9-28:20
+ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:22:9-28:20
 	android:name
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:22:19-52
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:22:19-52
 activity#com.example.gym365.Activity_tables
-ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:30:9-36:20
+ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:30:9-36:20
 	android:name
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:30:19-50
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:30:19-50
 activity#com.example.gym365.Activity_exercises
-ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:38:9-44:20
+ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:38:9-44:20
 	android:name
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:38:19-53
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:38:19-53
 activity#com.example.gym365.Activity_routes
-ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:46:9-52:20
+ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:46:9-52:20
 	android:name
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:46:19-50
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:46:19-50
 activity#com.example.gym365.Activity_pecho
-ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:54:9-60:20
+ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:54:9-60:20
 	android:name
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:54:19-49
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:54:19-49
 activity#com.example.gym365.Activity_piernas
-ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:62:9-68:20
+ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:62:9-68:20
 	android:name
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:62:19-51
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:62:19-51
 activity#com.example.gym365.Activity_brazos
-ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:70:9-76:20
+ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:70:9-76:20
 	android:name
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:70:19-50
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:70:19-50
 activity#com.example.gym365.Activity_espalda
-ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:78:9-84:20
+ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:78:9-84:20
 	android:name
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:78:19-51
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:78:19-51
 activity#com.example.gym365.Activity_hombro
-ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:86:9-92:20
+ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:86:9-92:20
 	android:name
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:86:19-50
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:86:19-50
 activity#com.example.gym365.Activity_abdominal
-ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:94:9-100:20
+ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:94:9-100:20
 	android:name
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:94:19-53
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:94:19-53
 activity#com.example.gym365.Activity_cardio
-ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:102:9-108:20
+ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:102:9-108:20
 	android:name
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:102:19-50
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:102:19-50
 activity#com.example.gym365.SettingsActivity
-ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:110:9-116:20
+ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:110:9-116:20
 	android:name
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:110:19-51
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:110:19-51
 activity#com.example.gym365.Activity_Agregar_table
-ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:118:9-124:20
+ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:118:9-124:20
 	android:name
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml:118:19-57
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml:118:19-57
 uses-sdk
-INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml
-INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml
+INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml
+INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml
 MERGED from [androidx.navigation:navigation-ui:2.0.0] /var/home/lab/alum1/03/63/931/.gradle/caches/transforms-2/files-2.1/a9790b8ff4aaafaac9e5673f046038ca/jetified-navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-ui:2.0.0] /var/home/lab/alum1/03/63/931/.gradle/caches/transforms-2/files-2.1/a9790b8ff4aaafaac9e5673f046038ca/jetified-navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.0.0] /var/home/lab/alum1/03/63/931/.gradle/caches/transforms-2/files-2.1/2946ca0ea6c89dab7d7d9fbc18e54292/material-1.0.0/AndroidManifest.xml:20:5-44
@@ -243,16 +243,16 @@ MERGED from [androidx.print:print:1.0.0] /var/home/lab/alum1/03/63/931/.gradle/c
 MERGED from [androidx.print:print:1.0.0] /var/home/lab/alum1/03/63/931/.gradle/caches/transforms-2/files-2.1/d31a9dbc3f8404c541e987748c42963b/print-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /var/home/lab/alum1/03/63/931/.gradle/caches/transforms-2/files-2.1/699bc310780b1730bce8fe271ffeca8b/interpolator-1.0.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.interpolator:interpolator:1.0.0] /var/home/lab/alum1/03/63/931/.gradle/caches/transforms-2/files-2.1/699bc310780b1730bce8fe271ffeca8b/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml
-INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml
+INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml
+INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml
-		INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml
+		INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml
+		INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml
-		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml
-		INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/AndroidManifest.xml
+		INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml
+		ADDED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml
+		INJECTED from /var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/AndroidManifest.xml
 provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
 ADDED from [androidx.lifecycle:lifecycle-process:2.0.0] /var/home/lab/alum1/03/63/931/.gradle/caches/transforms-2/files-2.1/b3c088406576b03c69a90621925ddf75/lifecycle-process-2.0.0/AndroidManifest.xml:23:9-27:43
 	android:authorities

@@ -30,9 +30,10 @@
         android:layout_height="61dp"
         android:layout_marginTop="30dp"
         android:layout_gravity="center"
-        android:background="@drawable/borde_redondo"
         android:hint="@string/Ejercicios_a_elegir"
+        android:background="@color/transparente"
         android:onClick="clickButton3"
+        android:textColorHint="@color/blanco"
         />
 
 </LinearLayout>

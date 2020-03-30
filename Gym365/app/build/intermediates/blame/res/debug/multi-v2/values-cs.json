@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml",
+            "outputFile": "/var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml",
             "map": [
                 {
                     "source": "/var/home/lab/alum1/03/63/931/.gradle/caches/transforms-2/files-2.1/906744c4ddcbc384c5a8d2d69414f8fa/appcompat-1.0.2/res/values-cs/values-cs.xml",

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/var/home/lab/alum1/03/63/931/.gradle/caches/transforms-2/files-2.1/a9790b8ff4aaafaac9e5673f046038ca/jetified-navigation-ui-2.0.0/res/values/values.xml",
@@ -18,6 +18,25 @@
                         "startOffsets": "36431,36507",
                         "endColumns": "75,86",
                         "endOffsets": "36502,36589"
+                    }
+                },
+                {
+                    "source": "/var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "3,15,10,17",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "54,525,374,617",
+                        "endLines": "8,15,13,17",
+                        "endColumns": "12,90,12,80",
+                        "endOffsets": "368,611,519,693"
+                    },
+                    "to": {
+                        "startLines": "631,637,638,642",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "38561,38880,38970,39120",
+                        "endLines": "636,637,641,642",
+                        "endColumns": "12,89,12,79",
+                        "endOffsets": "38875,38965,39115,39195"
                     }
                 },
                 {
@@ -57,6 +76,25 @@
                     }
                 },
                 {
+                    "source": "/var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/res/values/array.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "11",
+                        "endColumns": "19",
+                        "endOffsets": "347"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "150",
+                        "endLines": "11",
+                        "endColumns": "19",
+                        "endOffsets": "442"
+                    }
+                },
+                {
                     "source": "/var/home/lab/alum1/03/63/931/.gradle/caches/transforms-2/files-2.1/04005ad7c478d573db38b1bee16fcc6a/navigation-fragment-2.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,5",
@@ -73,42 +111,6 @@
                         "endLines": "4006,4319",
                         "endColumns": "24,24",
                         "endOffsets": "258643,275476"
-                    }
-                },
-                {
-                    "source": "/var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "3,15,10,17",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "54,525,374,617",
-                        "endLines": "8,15,13,17",
-                        "endColumns": "12,90,12,80",
-                        "endOffsets": "368,611,519,693"
-                    },
-                    "to": {
-                        "startLines": "631,637,638,642",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "38561,38880,38970,39120",
-                        "endLines": "636,637,641,642",
-                        "endColumns": "12,89,12,79",
-                        "endOffsets": "38875,38965,39115,39195"
-                    }
-                },
-                {
-                    "source": "/var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "18,20,16,24,23,22,2,11,5,6,7,8,13,19,14,15,10,12,26,27,3,28",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "589,699,540,861,812,759,17,326,106,149,196,243,412,651,454,498,286,368,909,980,61,1042",
-                        "endColumns": "61,58,47,46,48,52,43,41,42,46,46,41,41,47,43,41,39,43,70,61,43,60",
-                        "endOffsets": "646,753,583,903,856,807,56,363,144,191,238,280,449,694,493,535,321,407,975,1037,100,1098"
-                    },
-                    "to": {
-                        "startLines": "544,545,585,586,587,588,589,592,593,594,595,596,597,600,601,605,614,615,616,617,620,621",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "31894,31956,34773,34821,34868,34917,34970,35295,35337,35380,35427,35474,35516,35749,35797,36308,37396,37436,37480,37551,37737,37781",
-                        "endColumns": "61,58,47,46,48,52,43,41,42,46,46,41,41,47,43,41,39,43,70,61,43,60",
-                        "endOffsets": "31951,32010,34816,34863,34912,34965,35009,35332,35375,35422,35469,35511,35553,35792,35836,36345,37431,37475,37546,37608,37776,37837"
                     }
                 },
                 {
@@ -147,6 +149,23 @@
                         "endLines": "503,3097,4322",
                         "endColumns": "52,24,24",
                         "endOffsets": "29773,200555,275591"
+                    }
+                },
+                {
+                    "source": "/var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "5,4,3,2,6",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "199,153,106,55,241",
+                        "endColumns": "41,45,46,50,48",
+                        "endOffsets": "236,194,148,101,285"
+                    },
+                    "to": {
+                        "startLines": "190,203,204,205,270",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "9380,10312,10358,10405,14751",
+                        "endColumns": "41,45,46,50,48",
+                        "endOffsets": "9417,10353,10400,10451,14795"
                     }
                 },
                 {
@@ -205,6 +224,23 @@
                     }
                 },
                 {
+                    "source": "/var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "18,20,16,24,23,22,2,11,5,6,7,8,13,19,14,15,10,12,26,27,3,28",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "589,699,540,861,812,759,17,326,106,149,196,243,412,651,454,498,286,368,909,980,61,1042",
+                        "endColumns": "61,58,47,46,48,52,43,41,42,46,46,41,41,47,43,41,39,43,70,61,43,60",
+                        "endOffsets": "646,753,583,903,856,807,56,363,144,191,238,280,449,694,493,535,321,407,975,1037,100,1098"
+                    },
+                    "to": {
+                        "startLines": "544,545,585,586,587,588,589,592,593,594,595,596,597,600,601,605,614,615,616,617,620,621",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "31894,31956,34773,34821,34868,34917,34970,35295,35337,35380,35427,35474,35516,35749,35797,36308,37396,37436,37480,37551,37737,37781",
+                        "endColumns": "61,58,47,46,48,52,43,41,42,46,46,41,41,47,43,41,39,43,70,61,43,60",
+                        "endOffsets": "31951,32010,34816,34863,34912,34965,35009,35332,35375,35422,35469,35511,35553,35792,35836,36345,37431,37475,37546,37608,37776,37837"
+                    }
+                },
+                {
                     "source": "/var/home/lab/alum1/03/63/931/.gradle/caches/transforms-2/files-2.1/508ac768b50158a079142e4dc4915061/constraintlayout-1.1.3/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,11,12,13,14,15,19,20,21,22,25,26,29,32,33,34,35,36,39,42,43,44,45,50,53,56,57,58,63,64,65,68,71,72,75,78,81,84,85,88,91,92,97,98,103,106,109,110,111,112,113,114,115,116,117,118,127,128,129,130",
@@ -240,42 +276,6 @@
                         "endLines": "25,199,200,201,202,346,347,348,670,2059,2062,2065,3710",
                         "endColumns": "51,60,61,61,63,58,56,53,12,12,12,12,24",
                         "endOffsets": "1078,10119,10181,10243,10307,19971,20028,20082,41060,131279,131405,131533,233614"
-                    }
-                },
-                {
-                    "source": "/var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/res/values/array.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "11",
-                        "endColumns": "19",
-                        "endOffsets": "347"
-                    },
-                    "to": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "150",
-                        "endLines": "11",
-                        "endColumns": "19",
-                        "endOffsets": "442"
-                    }
-                },
-                {
-                    "source": "/var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/Gym365/app/src/main/res/values/colors.xml",
-                    "from": {
-                        "startLines": "5,4,3,2,6",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "199,153,106,55,241",
-                        "endColumns": "41,45,46,50,48",
-                        "endOffsets": "236,194,148,101,285"
-                    },
-                    "to": {
-                        "startLines": "190,203,204,205,270",
-                        "startColumns": "4,4,4,4,4",
-                        "startOffsets": "9380,10312,10358,10405,14751",
-                        "endColumns": "41,45,46,50,48",
-                        "endOffsets": "9417,10353,10400,10451,14795"
                     }
                 },
                 {
