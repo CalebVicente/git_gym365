@@ -43,6 +43,7 @@
             android:background="@drawable/borde_redondo"
             android:backgroundTint="@color/colorPrimary"
             android:drawableBottom="@drawable/mancuerna_icono"
+            android:paddingBottom="10dp"
             android:gravity="center"
             android:onClick="clickButton3"
             android:text="@string/button3" />
@@ -57,13 +58,13 @@
             android:backgroundTint="@color/colorPrimary"
             android:onClick="clickButton2"
             android:drawableBottom="@drawable/calendario_icono"
-
+            android:paddingBottom="10dp"
             android:text="@string/button2" />
 
     </LinearLayout>
 
     <LinearLayout
-        android:layout_width="400dp"
+        android:layout_width="310dp"
         android:layout_height="100dp"
         android:layout_marginTop="2mm"
         android:layout_gravity="center_horizontal"
@@ -78,6 +79,7 @@
             android:backgroundTint="@color/colorPrimary"
             android:onClick="clickButton1"
             android:drawableBottom="@drawable/tablas_icono"
+            android:paddingBottom="10dp"
             android:text="@string/button1" />
 
         <Button
@@ -90,6 +92,7 @@
             android:backgroundTint="@color/colorPrimary"
             android:onClick="clickButton4"
             android:drawableBottom="@drawable/bici_icono"
+            android:paddingBottom="10dp"
             android:text="@string/button4" />
 
     </LinearLayout>

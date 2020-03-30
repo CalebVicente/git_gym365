@@ -30,5 +30,11 @@ public class Activity_tables extends AppCompatActivity {
         return super.onCreateOptionsMenu(menu);
     }
 
+    public void clickButtonTable(View view) {
+
+        Intent intent = new Intent (this, Activity_Agregar_table.class);
+        startActivity(intent);
+
+    }
 
 }

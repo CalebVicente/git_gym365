@@ -56,6 +56,18 @@ public class Activity_exercises extends AppCompatActivity {
         startActivity(intent);
 
     }
+    public void clickHombro(View view) {
+
+        Intent intent = new Intent (this, Activity_hombro.class);
+        startActivity(intent);
+
+    }
+    public void clickAbdominal(View view) {
+
+        Intent intent = new Intent (this, Activity_abdominal.class);
+        startActivity(intent);
+
+    }
     public void clickCardio(View view) {
 
         Intent intent = new Intent (this, Activity_cardio.class);

@@ -5,5 +5,18 @@
     android:background="@drawable/fondo">
 
 
+    <Button
+        android:id="@+id/Button_Table"
+        android:layout_width="305dp"
+        android:layout_height="60dp"
+        android:layout_margin="50dp"
+        android:background="@drawable/borde_redondo"
+        android:backgroundTint="@color/colorPrimary"
+        android:paddingLeft="5dp"
+        android:paddingRight="5dp"
+        android:onClick="clickButtonTable"
+        android:text="@string/Agregar_tabla"
+        />
+
 
 </LinearLayout>
