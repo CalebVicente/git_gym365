@@ -29,6 +29,7 @@ animator mtrl_fab_hide_motion_spec
 animator mtrl_fab_show_motion_spec
 animator mtrl_fab_transformation_sheet_collapse_spec
 animator mtrl_fab_transformation_sheet_expand_spec
+array Dias_Semanales
 attr action
 attr actionBarDivider
 attr actionBarItemBackground
@@ -615,6 +616,7 @@ color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
 color background_material_light
+color blanco
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
 color bright_foreground_inverse_material_dark
@@ -716,6 +718,7 @@ color switch_thumb_normal_material_dark
 color switch_thumb_normal_material_light
 color tooltip_background_dark
 color tooltip_background_light
+color transparente
 dimen abc_action_bar_content_inset_material
 dimen abc_action_bar_content_inset_with_nav
 dimen abc_action_bar_default_height_material
@@ -1019,18 +1022,24 @@ drawable abc_textfield_search_activated_mtrl_alpha
 drawable abc_textfield_search_default_mtrl_alpha
 drawable abc_textfield_search_material
 drawable abc_vector_test
+drawable abdominal_icono
 drawable avd_hide_password
 drawable avd_show_password
 drawable bici_icono
 drawable borde_redondo
+drawable brazos_icono
 drawable calendario_icono
+drawable cardio_icono
+drawable circulo
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable espalda_icono
 drawable fondo
+drawable hombro_icono
 drawable ic_action_search
 drawable ic_launcher_background
 drawable ic_launcher_foreground
@@ -1055,13 +1064,19 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable pecho_icono
+drawable pierna_icono
 drawable tablas_icono
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
+id Button_Table
 id CTRL
+id Dias
+id Ejercicio_A_Elegir
 id FUNCTION
 id META
+id Nombre
 id SHIFT
 id SYM
 id action0
@@ -1150,6 +1165,7 @@ id home
 id homeAsUp
 id icon
 id icon_group
+id id_list_view
 id ifRoom
 id image
 id info
@@ -1241,6 +1257,7 @@ id tag_transition_group
 id tag_unhandled_key_event_manager
 id tag_unhandled_key_listeners
 id text
+id text1
 id text2
 id textSpacerNoButtons
 id textSpacerNoTitle
@@ -1318,11 +1335,14 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_abdominal
+layout activity_agregar_table
 layout activity_brazos
 layout activity_calendar
 layout activity_cardio
 layout activity_espalda
 layout activity_exercises
+layout activity_hombro
 layout activity_main
 layout activity_pecho
 layout activity_piernas
@@ -1344,6 +1364,7 @@ layout design_navigation_menu_item
 layout design_text_input_password_icon
 layout mtrl_layout_snackbar
 layout mtrl_layout_snackbar_include
+layout notes_row
 layout notification_action
 layout notification_action_tombstone
 layout notification_media_action
@@ -1366,6 +1387,8 @@ layout support_simple_spinner_dropdown_item
 menu menu_main
 mipmap ic_launcher
 mipmap ic_launcher_round
+string Agregar_tabla
+string Ejercicios_a_elegir
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -1405,6 +1428,7 @@ string abc_searchview_description_voice
 string abc_shareactionprovider_share_with
 string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
+string abdominal
 string action_about
 string action_search
 string action_settings
@@ -1419,10 +1443,12 @@ string button4
 string cardio
 string character_counter_content_description
 string character_counter_pattern
+string edit_message
 string espalda
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
 string hide_bottom_view_on_scroll_behavior
+string hombro
 string mtrl_chip_close_icon_content_description
 string nav_app_bar_navigate_up_description
 string nav_app_bar_open_drawer_description
@@ -1433,9 +1459,12 @@ string path_password_eye_mask_visible
 string path_password_strike_through
 string pecho
 string piernas
+string pref_default_display_name
+string pref_title_display_name
 string search_menu_title
 string status_bar_notification_info_overflow
 string text
+string title_activity_settings
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog
@@ -2026,3 +2055,4 @@ styleable Toolbar android_gravity android_minHeight buttonGravity collapseConten
 styleable View android_theme android_focusable paddingEnd paddingStart theme
 styleable ViewBackgroundHelper android_background backgroundTint backgroundTintMode
 styleable ViewStubCompat android_id android_layout android_inflatedId
+xml settings_layout

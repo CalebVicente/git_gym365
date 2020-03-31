@@ -1,7 +1,11 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "C:\\Users\\cvicentm\\Documents\\UNI\\aps\\Gym365\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mr\\values-mr.xml",
+=======
+            "outputFile": "C:\\Users\\cvicentm\\Documents\\UNI\\aps\\git_gym365\\Gym365\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-mr\\values-mr.xml",
+>>>>>>> e2f85db51d0202593bd9670536cd9ad5b61aad45
             "map": [
                 {
                     "source": "C:\\Users\\cvicentm\\.gradle\\caches\\transforms-2\\files-2.1\\906744c4ddcbc384c5a8d2d69414f8fa\\appcompat-1.0.2\\res\\values-mr\\values-mr.xml",

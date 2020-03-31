@@ -1,7 +1,11 @@
 {
     "logs": [
         {
+<<<<<<< HEAD
             "outputFile": "C:\\Users\\cvicentm\\Documents\\UNI\\aps\\Gym365\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ro\\values-ro.xml",
+=======
+            "outputFile": "C:\\Users\\cvicentm\\Documents\\UNI\\aps\\git_gym365\\Gym365\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ro\\values-ro.xml",
+>>>>>>> e2f85db51d0202593bd9670536cd9ad5b61aad45
             "map": [
                 {
                     "source": "C:\\Users\\cvicentm\\.gradle\\caches\\transforms-2\\files-2.1\\2813fe97c1cb58ebe38af53c1f99e5e0\\jetified-navigation-ui-2.0.0\\res\\values-ro\\values-ro.xml",

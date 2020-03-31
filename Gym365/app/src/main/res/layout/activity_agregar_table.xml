@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo">
+
+    <EditText
+        android:id="@+id/Nombre"
+        android:layout_width="181dp"
+        android:layout_height="61dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="80dp"
+        android:gravity="center"
+        android:hint="@string/edit_message"
+        android:backgroundTint="@color/blanco"
+        android:textColorHint="@color/blanco"
+
+        />
+
+    <Spinner android:id="@+id/Dias"
+        android:layout_width="181dp"
+        android:layout_height="61dp"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:background="@drawable/borde_redondo"
+        android:entries="@array/Dias_Semanales"
+        android:gravity="center"/>
+    <Button android:id="@+id/Ejercicio_A_Elegir"
+        android:layout_width="181dp"
+        android:layout_height="61dp"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:hint="@string/Ejercicios_a_elegir"
+        android:background="@color/transparente"
+        android:onClick="clickButton3"
+        android:textColorHint="@color/blanco"
+        />
+
+</LinearLayout>
