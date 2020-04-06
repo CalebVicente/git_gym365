@@ -1,14 +1,10 @@
 {
     "logs": [
         {
-<<<<<<< HEAD
-            "outputFile": "C:\\Users\\cvicentm\\Documents\\UNI\\aps\\Gym365\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
-=======
-            "outputFile": "C:\\Users\\cvicentm\\Documents\\UNI\\aps\\git_gym365\\Gym365\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
->>>>>>> e2f85db51d0202593bd9670536cd9ad5b61aad45
+            "outputFile": "/var/home/lab/alum1/03/63/931/Documentos/Apss_Moviles/git_gym365/Gym365/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\cvicentm\\.gradle\\caches\\transforms-2\\files-2.1\\906744c4ddcbc384c5a8d2d69414f8fa\\appcompat-1.0.2\\res\\values-v16\\values-v16.xml",
+                    "source": "/var/home/lab/alum1/03/63/931/.gradle/caches/transforms-2/files-2.1/906744c4ddcbc384c5a8d2d69414f8fa/appcompat-1.0.2/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -27,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\cvicentm\\.gradle\\caches\\transforms-2\\files-2.1\\c0a39027978b83a483a047f5c31d0c4e\\core-1.0.1\\res\\values-v16\\values-v16.xml",
+                    "source": "/var/home/lab/alum1/03/63/931/.gradle/caches/transforms-2/files-2.1/c0a39027978b83a483a047f5c31d0c4e/core-1.0.1/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

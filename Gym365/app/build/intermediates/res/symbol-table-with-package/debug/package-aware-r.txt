@@ -1127,6 +1127,7 @@ id chronometer
 id clip_horizontal
 id clip_vertical
 id collapseActionView
+id confirm
 id container
 id content
 id contentPanel
@@ -1344,6 +1345,7 @@ layout activity_espalda
 layout activity_exercises
 layout activity_hombro
 layout activity_main
+layout activity_notepad
 layout activity_pecho
 layout activity_piernas
 layout activity_routes
@@ -1443,6 +1445,7 @@ string button4
 string cardio
 string character_counter_content_description
 string character_counter_pattern
+string confirm
 string edit_message
 string espalda
 string fab_transformation_scrim_behavior

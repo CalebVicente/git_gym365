@@ -28,4 +28,6 @@
     <string name="pref_title_display_name">User name</string>
     <string name="title_activity_settings">Settings</string>
 
+    <string name="confirm">Confirm</string>
+
 </resources>

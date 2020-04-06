@@ -79,10 +79,7 @@
             android:backgroundTint="@color/colorPrimary"
             android:onClick="clickButton1"
             android:drawableBottom="@drawable/tablas_icono"
-<<<<<<< HEAD
-=======
             android:paddingBottom="10dp"
->>>>>>> e2f85db51d0202593bd9670536cd9ad5b61aad45
             android:text="@string/button1" />
 
         <Button
@@ -95,10 +92,7 @@
             android:backgroundTint="@color/colorPrimary"
             android:onClick="clickButton4"
             android:drawableBottom="@drawable/bici_icono"
-<<<<<<< HEAD
-=======
             android:paddingBottom="10dp"
->>>>>>> e2f85db51d0202593bd9670536cd9ad5b61aad45
             android:text="@string/button4" />
 
     </LinearLayout>

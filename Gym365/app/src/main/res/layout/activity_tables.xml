@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:orientation="vertical" android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/fondo">
 
@@ -12,11 +14,15 @@
         android:layout_margin="50dp"
         android:background="@drawable/borde_redondo"
         android:backgroundTint="@color/colorPrimary"
+        android:onClick="clickButtonTable"
         android:paddingLeft="5dp"
         android:paddingRight="5dp"
-        android:onClick="clickButtonTable"
-        android:text="@string/Agregar_tabla"
-        />
+        android:text="@string/Agregar_tabla" />
+
+    <ListView
+        android:id="@+id/id_list_view"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
 
 
 </LinearLayout>

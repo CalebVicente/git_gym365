@@ -63,7 +63,7 @@ public class Activity_pecho extends AppCompatActivity {
     }
 
     private void fillData() {
-        Cursor notesCursor = dbaccess.fetchAllExercises();
+        Cursor notesCursor = dbaccess.fetchAllNotes();
 
         // Creamos un array con los campos que queremos mostrar en el listview (sólo el título de la nota)
         String[] from = new String[]{DBaccess.KEY_NAME};

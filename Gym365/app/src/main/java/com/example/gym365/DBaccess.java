@@ -1,3 +1,4 @@
+
 package com.example.gym365;
 
 import android.content.ContentValues;
@@ -13,25 +14,31 @@ public class DBaccess {
     private static final String TAG = "APMOV: NotesDbAdapter"; // Usado en los mensajes de Log
 
     //Nombre de la base de datos, tablas (en este caso una) y versión
-    private static final String DATABASE_NAME = "prueba_ejercicios";
-    private static final String DATABASE_TABLE = "ejercicios";
+    private static final String DATABASE_NAME = "Ejercicios";
+    private static final String DATABASE_TABLE = "Table_Exercise";
     private static final int DATABASE_VERSION = 2;
 
+    /*
     //campos de la tabla de la base de datos
     public static final String KEY_ID = "id";
+    public static final String KEY_TYPE = "tyoe";
     public static final String KEY_NAME = "name";
-    public static final String KEY_CATEGORY = "category";
     public static final String KEY_LINK_PHOTO = "photo";
     public static final String KEY_LINK_VIDEO = "video";
+    */
 
+    //campos de la tabla de la base de datos
+    public static final String KEY_NAME = "name";
+    public static final String KEY_DAY = "day";
+    public static final String KEY_ROWID = "_id";
 
     // Sentencia SQL para crear las tablas de las bases de datos
-    /*
+
     private static final String DATABASE_CREATE = "create table " + DATABASE_TABLE + " (" +
             KEY_ROWID +" integer primary key autoincrement, " +
-            KEY_TITLE +" text not null, " +
-            KEY_BODY + " text not null);";
-    */
+            KEY_NAME +" text not null, " +
+            KEY_DAY + " text not null);";
+
     private DatabaseHelper mDbHelper;
     private SQLiteDatabase mDb;
 
@@ -45,8 +52,7 @@ public class DBaccess {
 
 
         @Override
-        public void onCreate(SQLiteDatabase db) {
-            //db.execSQL(DATABASE_CREATE);
+        public void onCreate(SQLiteDatabase db) { db.execSQL(DATABASE_CREATE);
         }
 
         // Sobreescribir el siguiente método y poner disableWriteAheadLogging es necesario a partir
@@ -102,61 +108,90 @@ public class DBaccess {
      * successfully created return the new rowId for that note, otherwise return
      * a -1 to indicate failure.
      *
-     * @param title the title of the note
-     * @param body the body of the note
+     * @param name the title of the note
+     * @param day the body of the note
      * @return rowId or -1 if failed
      */
-    /*
-    public long createNote(String title, String body) {
+
+    public long createNote(String day, String name) {
         ContentValues initialValues = new ContentValues();
-        initialValues.put(KEY_TITLE, title);
-        initialValues.put(KEY_BODY, body);
+        initialValues.put(KEY_NAME, name);
+        initialValues.put(KEY_DAY, day);
 
         return mDb.insert(DATABASE_TABLE, null, initialValues);
     }
-    */
+
     /**
      * Delete the note with the given rowId
      *
      * @param rowId id of note to delete
      * @return true if deleted, false otherwise
      */
-    /*
+
     public boolean deleteNote(long rowId) {
 
         return mDb.delete(DATABASE_TABLE, KEY_ROWID + "=" + rowId, null) > 0;
     }
-    */
+
 
     /**
      * Return a Cursor over the list of all notes in the database
      *
      * @return Cursor over all notes
      */
+    /*
     public Cursor fetchAllExercises() {
 
-        return mDb.query(DATABASE_TABLE, new String[]{KEY_ID, KEY_NAME, KEY_CATEGORY, KEY_LINK_PHOTO, KEY_LINK_VIDEO},
+        return mDb.query(DATABASE_TABLE, new String[]{KEY_ID, KEY_NAME, KEY_TYPE, KEY_LINK_PHOTO, KEY_LINK_VIDEO},
                 null, null, null, null, null);
     }
+    */
+    public Cursor fetchAllNotes() {
+
+        return mDb.query(DATABASE_TABLE, new String[] {KEY_ROWID, KEY_NAME,
+                KEY_DAY}, null, null, null, null, null);
+    }
+
+
 
     /**
      * Return a Cursor positioned at the note that matches the given rowId
      *
-     * @param category id of note to retrieve
+     //* @param category id of note to retrieve
      * @return Cursor positioned to matching note, if found
      * @throws SQLException if note could not be found/retrieved
      */
+
+
+    /*
     public Cursor fetchExercise(String category) throws SQLException {
 
         Cursor mCursor =
 
-                mDb.query(true, DATABASE_TABLE, new String[]{KEY_ID, KEY_NAME, KEY_CATEGORY, KEY_LINK_PHOTO, KEY_LINK_VIDEO},
-                        KEY_CATEGORY + "=" + category, null,
+                mDb.query(true, DATABASE_TABLE, new String[]{KEY_ID, KEY_NAME, KEY_TYPE, KEY_LINK_PHOTO, KEY_LINK_VIDEO},
+                        KEY_TYPE + "=" + category, null,
                         null, null, null, null);
         if (mCursor != null) {
             mCursor.moveToFirst();
         }
         return mCursor;
+
+    }
+    */
+
+    public Cursor fetchNote(long rowId) throws SQLException {
+
+        Cursor mCursor =
+
+                mDb.query(true, DATABASE_TABLE, new String[] {KEY_ROWID,
+                                KEY_NAME, KEY_DAY}, KEY_ROWID + "=" + rowId, null,
+                        null, null, null, null);
+        if (mCursor != null) {
+            mCursor.moveToFirst();
+        }
+        return mCursor;
+
+
 
     }
 
@@ -166,18 +201,18 @@ public class DBaccess {
      * values passed in
      *
      * @param rowId id of note to update
-     * @param title value to set note title to
-     * @param body value to set note body to
+     * @param name value to set note name to
+     * @param day value to set note day to
      * @return true if the note was successfully updated, false otherwise
      */
-    /*
-    public boolean updateNote(long rowId, String title, String body) {
+
+    public boolean updateNote(long rowId, String name, String day) {
         ContentValues args = new ContentValues();
-        args.put(KEY_TITLE, title);
-        args.put(KEY_BODY, body);
+        args.put(KEY_NAME, name);
+        args.put(KEY_DAY, day);
 
         return mDb.update(DATABASE_TABLE, args, KEY_ROWID + "=" + rowId, null) > 0;
     }
-    */
+
 
 }
