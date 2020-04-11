@@ -11,11 +11,11 @@ import android.util.Log;
 
 // Clase adaptadora que nos va a facilitar el uso de la BD
 public class DBaccess {
-    private static final String TAG = "APMOV: NotesDbAdapter"; // Usado en los mensajes de Log
+    private static final String TAG = "APMOV: DBaccess"; // Usado en los mensajes de Log
 
     //Nombre de la base de datos, tablas (en este caso una) y versión
-    private static final String DATABASE_NAME = "Ejercicios";
-    private static final String DATABASE_TABLE = "Table_Exercise";
+    private static final String DATABASE_NAME = "data_cesar";
+    private static final String DATABASE_TABLE = "table_tablas";
     private static final int DATABASE_VERSION = 2;
 
     /*

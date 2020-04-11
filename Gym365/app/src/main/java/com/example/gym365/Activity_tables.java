@@ -1,24 +1,18 @@
 package com.example.gym365;
 
-import androidx.appcompat.app.AppCompatActivity;
-
-import android.app.AlertDialog;
 import android.content.Context;
-import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.database.Cursor;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuInflater;
-import android.view.MenuItem;
 import android.view.View;
 import android.widget.AdapterView;
-import android.widget.Button;
-import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.SimpleCursorAdapter;
-import android.widget.Toast;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -46,7 +40,6 @@ public class Activity_tables extends AppCompatActivity {
         dbAdapter = new DBaccess(this);
         dbAdapter.open();
 
-        /*
         // Lo siguiente se ejecuta sólo la primera vez que se instala la
         // aplicación.
         // Si no existe la base de datos, la copiamos del directorio assets
@@ -75,7 +68,7 @@ public class Activity_tables extends AppCompatActivity {
                 e.printStackTrace();
             }
         }
-        */
+
 
 
         //inflamos el layout
@@ -99,7 +92,7 @@ public class Activity_tables extends AppCompatActivity {
         );
 
         // rellenamos el listview con los títulos de todas las notas en la BD
-        //fillData();
+        fillData();
     }
 
     private void fillData() {
@@ -119,11 +112,6 @@ public class Activity_tables extends AppCompatActivity {
 
 
 
-    @Override
-    protected void onActivityResult(int requestCode, int resultCode, Intent intent) {
-        super.onActivityResult(requestCode, resultCode, intent);
-        fillData();
-    }
 
 
     @Override
@@ -134,11 +122,22 @@ public class Activity_tables extends AppCompatActivity {
         return super.onCreateOptionsMenu(menu);
     }
 
+
     public void clickButtonTable(View view) {
 
         Intent intent = new Intent (this, Activity_Agregar_table.class);
         startActivity(intent);
 
     }
+
+    @Override
+    protected void onActivityResult(int requestCode, int resultCode, Intent intent) {
+        super.onActivityResult(requestCode, resultCode, intent);
+        fillData();
+    }
+
+
+
+
 
 }

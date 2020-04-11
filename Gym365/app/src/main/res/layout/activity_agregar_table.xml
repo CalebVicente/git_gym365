@@ -5,7 +5,7 @@
     android:background="@drawable/fondo">
 
     <EditText
-        android:id="@+id/Nombre"
+        android:id="@+id/name"
         android:layout_width="221dp"
         android:layout_height="61dp"
         android:background="@drawable/borde_redondo"
@@ -14,7 +14,7 @@
         />
 
     <Spinner
-        android:id="@+id/Dias"
+        android:id="@+id/day"
         android:layout_width="221dp"
         android:layout_height="61dp"
         android:layout_gravity="center"

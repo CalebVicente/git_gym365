@@ -1,10 +1,5 @@
 package com.example.gym365;
 
-import androidx.appcompat.app.AppCompatActivity;
-
-import android.app.AlertDialog;
-import android.content.Context;
-import android.content.DialogInterface;
 import android.content.Intent;
 import android.database.Cursor;
 import android.os.Bundle;
@@ -13,7 +8,8 @@ import android.view.MenuInflater;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
-import android.widget.Toast;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class Activity_Agregar_table extends AppCompatActivity{
 
@@ -30,7 +26,7 @@ public class Activity_Agregar_table extends AppCompatActivity{
         setContentView(R.layout.activity_agregar_table);
 
         // obtiene referencia a los tres views que componen el layout
-        mTitleText = (EditText) findViewById(R.id.title);
+        mTitleText = (EditText) findViewById(R.id.name);
         Button confirmButton = (Button) findViewById(R.id.confirm);
 
         //creamos el adaptador de la BD y la abrimos
@@ -69,8 +65,10 @@ public class Activity_Agregar_table extends AppCompatActivity{
 
     }
 
+
     //Botón que guarda los cambios
     public void saveNote(View view) {
+
         String name = mTitleText.getText().toString();
         String day = mBodyText.getText().toString();
 
@@ -86,4 +84,8 @@ public class Activity_Agregar_table extends AppCompatActivity{
         finish();
     }
 
+
+
 }
+
+
